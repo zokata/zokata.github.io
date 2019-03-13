@@ -1,0 +1,27 @@
+* {
+    font-family: 'Rubik', sans-serif;
+}
+
+body {
+    background-image: url("cover.jpg");
+    background-size: cover;
+    background-position-x: center;
+}
+.container {
+    position: relative;
+    top: 400px;
+    color: white;
+}
+.main-text {
+    font-family: 'Caveat Brush', cursive;
+    font-size: 3.5rem;
+}
+.btn-primary {
+    background-color: rgb(63, 17, 150);
+    border-color: rgb(63, 17, 150);
+    border-radius: 30px;
+    font-family: 'Rubik', sans-serif;
+}
+.btn-primary:hover{
+    background-color: rgba(63, 17, 150, 0.4);
+}
